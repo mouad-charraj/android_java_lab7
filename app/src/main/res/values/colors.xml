@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Definitive Unique Star Theme: Midnight Blue & Stellar Gold -->
+    <color name="star_primary">#1A237E</color> <!-- Navy Blue -->
+    <color name="star_primary_variant">#000051</color>
+    <color name="star_secondary">#FFD600</color> <!-- Stellar Gold -->
+    <color name="star_secondary_variant">#C6A700</color>
+
+    <color name="star_background">#F5F6FA</color>
+    <color name="star_card_bg">#FFFFFF</color>
+    <color name="star_text_title">#1A237E</color>
+    <color name="star_text_body">#2C3E50</color>
+
+    <color name="gold_glow">#FFEE58</color>
+</resources>

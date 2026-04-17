@@ -4,7 +4,8 @@
 Ce projet est le septième laboratoire pratique du module de développement mobile Android. Il s'agit d'une application simple permettant d’afficher une liste de stars dans une interface moderne avec RecyclerView. L’application utilise un écran de démarrage, une barre de recherche, un système de partage et une fenêtre popup pour modifier la note d’un élément. Ce laboratoire permet de comprendre l’utilisation des composants Android modernes, la gestion d’une liste dynamique et l’organisation d’une application selon une architecture claire.
 
 ## Screenshot
-<img width="400" height="882" alt="lab7" src="https://github.com/user-attachments/assets/04e266cd-5873-40c6-bfc8-793945c36942" />
+<img width="400" height="882" alt="lab7-vid" src="https://github.com/user-attachments/assets/6d0fc0d9-cf4d-440f-a8c6-507c0e555ddd" />
+
 
 
 ## Fonctionnalités
